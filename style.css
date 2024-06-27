@@ -1,0 +1,25 @@
+th, td {
+    padding: 10px;
+}
+
+th {
+    background: #606060;
+}
+
+td { 
+    background: #b5b5b5;
+}
+
+.table {
+    width: 80%;
+    font-size: 16pt;
+}
+
+.table2 {
+    width: 1240px;
+    font-size: 16pt;
+}
+
+.hidden{
+    display:none;
+}
